@@ -1,5 +1,10 @@
 # 🌿 Plant Village Disease Prediction System
 
+## 🎥 Project Demo
+
+👉 [Watch Video on Google Drive](https://drive.google.com/file/d/11NL7wgV54kFln2jrraqr1cR4aaXaa-NR/view?usp=sharing)
+
+
 A deep learning-powered web application that predicts plant diseases based on leaf images. The system uses image classification techniques and deploys the trained model via Streamlit for real-time user interaction.
 
 ---
